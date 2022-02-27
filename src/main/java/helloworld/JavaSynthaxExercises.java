@@ -5,6 +5,6 @@ public class JavaSynthaxExercises {
         //pierwsza zmienna
         String name = "John";
         System.out.println(name);
-
+        System.out.println();
     }
 }
