@@ -1,8 +1,8 @@
 package helloworld;
 
-public class HelloWorld {
+public class Czesc Kamil {
 	public static void main(String[] args) {
-		System.out.println("Witaj Swiecie!");
+		System.out.println("Czesc Kamil"); 
 	}
 }
-	
+
