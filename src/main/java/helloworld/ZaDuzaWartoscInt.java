@@ -5,6 +5,6 @@ public class ZaDuzaWartoscInt {
 		int duzaLiczba = 12345;
 		
 		// blad - wartosc przekracza zakres typu int
-		duzaLiczba = 9999999999;
+//		duzaLiczba = 9999999999;
 	}
 }

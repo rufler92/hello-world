@@ -5,6 +5,6 @@ public class ZaDuzaWartoscByte {
 		byte malaLiczba = 123;
 		
 		// blad - wartosc przekracza zakres typu byte
-		malaLiczba = 10000
+//		malaLiczba = 10000
 	}
 }
